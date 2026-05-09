@@ -28,7 +28,7 @@ Lucas Modesto.
   Venha a nós o vosso array[10]  
   E seja feita, sim, {vossa chave}  
   Assim no if{} como no else{}  
-  O for (nosso; de cada dia; nos dai hoje.  
+  O for (nosso; de cada dia; nos dai hoje)  
   Debugai as nossas sentenças  
   Assim como nós colocamos o ponto e vígula esquecido;  
           E não nos deixeis errar identação  
