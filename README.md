@@ -3,7 +3,7 @@
 
 Queria agradecer ao professor [Vinicius Ruela Pereira Borges](https://viniciusrpb.github.io/), que nem deve saber da minha existência, mas vale a pena agradecer. Ele foi quem me apresentou o mundo da programação competitiva. Esse repositório foi todo baseado no repertório dele. Sendo assim, a minha principal referência para a produção dos conteúdos junto ao Professor Daniel Porto.
 
-Gostaria também de agradecer ao professor [Daniel de Paula Porto](https://www.porto.ooo/). Ele é o atual orientador do projeto e me guia com muito carinho e cuidado. Gostaria muito de agradecer ele por ter me apoiado esse tempo todo.
+Gostaria também de agradecer ao professor [Daniel de Paula Porto](https://www.porto.ooo/). Ele é o atual orientador do projeto e me guia com muito carinho e cuidado. Gostaria muito de agradecer ele por ter me apoiado esse tempo todo. Tá sempre acreditando nos seus alunos e passando conhecimentos adiante. Além de me instruir academicamente. 
 
 O professor [Paulo Henrique Sales Wanderley](https://www.escavador.com/sobre/544232/paulo-henrique-sales-wanderley), também ofereceu total apoio ao projeto como atual Diretor do IFB - Campus ceilândia, cedendo o espaço para que eu pudesse guiar os maguinhos. O professor Paulo sempre nos deixou muito confortavel em relação a projetos, sempre correu atrás de melhorias para o Campus e sempre lutou para conquistar um espaço para desenvolvermos habilidades triviais. Além disso, foi um docente que sempre me apoiou e um dos que mais acreditou em mim.
 
