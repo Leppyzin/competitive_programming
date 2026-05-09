@@ -20,28 +20,28 @@ Lucas Modesto.
 
 # Oração
   **meus queridos alunos pensaram em recrutar algumas pessoas por meio da fé. Então, segue a oração e em seguida o cronograma;**
-  Código nosso que estás em C _
-  Santificado seja vós, Console _
-  Venha a nós o vosso array[10] _
-  E seja feita, sim, {vossa chave} _
-  Assim no if{} como no else{} _
-  O for (nosso; de cada dia; nos dai hoje. _
-  Debugai as nossas sentenças _
-  Assim como nós colocamos o ponto e vígula esquecido; _
-          E não nos deixeis errar identação _
-  Mas livrai-nos das funções recursivas _
-   A main(); _
-    Sistema Operacional que estais na memória, _
-  Compilado seja o vosso programa, _
-  Venha à tela os vossos comandos, _
-  Seja executada a nossa rotina, _
-  Assim na memória, como na impressora . _
-  Acerto nosso de cada dia, rodai hoje _
-  Informai os nossos erros, _
-  Assim como nós informamos o que está corrigido, _
-  Não nos deixai entrar em looping, _
-  Mas livrai-nos do Dump, _
-  A main(). _
+  Código nosso que estás em C  
+  Santificado seja vós, Console    
+  Venha a nós o vosso array[10]  
+  E seja feita, sim, {vossa chave}  
+  Assim no if{} como no else{}  
+  O for (nosso; de cada dia; nos dai hoje.  
+  Debugai as nossas sentenças  
+  Assim como nós colocamos o ponto e vígula esquecido;  
+          E não nos deixeis errar identação  
+  Mas livrai-nos das funções recursivas  
+   A main();  
+    Sistema Operacional que estais na memória,  
+  Compilado seja o vosso programa,  
+  Venha à tela os vossos comandos,  
+  Seja executada a nossa rotina,  
+  Assim na memória, como na impressora .  
+  Acerto nosso de cada dia, rodai hoje  
+  Informai os nossos erros,  
+  Assim como nós informamos o que está corrigido,  
+  Não nos deixai entrar em looping,  
+  Mas livrai-nos do Dump,  
+  A main().  
 
   # Cronograma
 
