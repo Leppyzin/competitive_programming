@@ -17,3 +17,34 @@ Tenho muito carinho pela Educação, apesar de não querer trabalhar com isso, a
 
 Com muito carinho,
 Lucas Modesto.
+
+# Oração
+  **meus queridos alunos pensaram em recrutar algumas pessoas por meio da fé. Então, segue a oração e em seguida o cronograma;**
+  Código nosso que estás em C
+  Santificado seja vós, Console
+  Venha a nós o vosso array[10]
+  E seja feita, sim, {vossa chave}
+  Assim no if{} como no else{}
+  O for (nosso; de cada dia; nos dai hoje.
+  Debugai as nossas sentenças
+  Assim como nós colocamos o ponto e vígula esquecido;
+          E não nos deixeis errar identação
+  Mas livrai-nos das funções recursivas
+   A main();
+    Sistema Operacional que estais na memória,
+  Compilado seja o vosso programa,
+  Venha à tela os vossos comandos,
+  Seja executada a nossa rotina,
+  Assim na memória, como na impressora.
+  Acerto nosso de cada dia, rodai hoje
+  Informai os nossos erros,
+  Assim como nós informamos o que está corrigido,
+  Não nos deixai entrar em looping,
+  Mas livrai-nos do Dump,
+  A main().
+
+  # Cronograma
+
+  Segue agora um pequeno cronograma das nossas aulinhas, a main();🙏
+
+  []
