@@ -19,7 +19,8 @@ Com muito carinho,
 Lucas Modesto.
 
 # Oração
-  **meus queridos alunos pensaram em recrutar algumas pessoas por meio da fé. Então, segue a oração e em seguida o cronograma;**
+  **meus queridos alunos pensaram em recrutar algumas pessoas por meio da fé. Então, segue a oração e em seguida o cronograma;**  
+
   Código nosso que estás em C  
   Santificado seja vós, Console    
   Venha a nós o vosso array[10]  
@@ -34,6 +35,10 @@ Lucas Modesto.
 
   # Cronograma
 
-  Segue agora um pequeno cronograma das nossas aulinhas, a main();🙏
+  #### Segue agora um pequeno cronograma das nossas aulinhas, a main();🙏
 
-  []
+
+
+  ### 1- [Primeiros passos e introdução da Linguagem C](https://github.com/Leppyzin/Programacao_competitiva/tree/main/Aula_01)
+  ### 2- [Algumas dicas para resolução de problemas](https://github.com/Leppyzin/Programacao_competitiva/blob/main/como%20resolver%3F/LEIA.MD)
+  ### 3- [Algoritmos Computacionais Sequenciais](https://github.com/Leppyzin/Programacao_competitiva/tree/main/Aula_02/Algoritmos%20Computacionais%20Sequenciais)
