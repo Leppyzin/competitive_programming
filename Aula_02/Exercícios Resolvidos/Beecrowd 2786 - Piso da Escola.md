@@ -1,6 +1,6 @@
 # Piso da Escola
 
- ### eita diretora que gosta de complicar o facil, nunca tinha visto eoem.
+ ### Eita diretora que gosta de complicar o facil, nunca tinha visto eoem.
 
 ```
 #include <stdio.h>
