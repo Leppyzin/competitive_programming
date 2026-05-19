@@ -19,4 +19,4 @@ int main(){
 }
 ```
 
-  Um problema que muitas pessoas usariam IF e ELSE sem necessidade alguma, entao cuidado com esses peguinhas, tem muito peguinha que eh so para pesar o programa, tem que ficar de zoio.
+  Um problema que muitas pessoas usariam IF e ELSE sem necessidade alguma, então cuidado com esses peguinhas, tem muito peguinha que é só para pesar o programa, tem que ficar de zoio.
