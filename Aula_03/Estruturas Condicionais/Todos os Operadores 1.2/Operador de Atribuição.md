@@ -14,3 +14,15 @@
 ### Saída
 
 ![atribuicao2](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/atribuicao_codigo_resultado.png?raw=true)
+
+ Nesse exemplo, conseguimos notar que o operador de atribuição pode ser utilizado no momento da declaração da variável (linha 8). Desse modo, a variável já é declarada possuindo um valor inicial.
+
+ ### Atenção!!!!!
+
+  O operador de atribuição "=" armazena o valor ou resultado de uma expressão contida à sua **direita** na variável especificada à sua esquerda.
+
+  A seguir veremos formas incorretas de se armazenar uma variável:
+
+  
+
+  
