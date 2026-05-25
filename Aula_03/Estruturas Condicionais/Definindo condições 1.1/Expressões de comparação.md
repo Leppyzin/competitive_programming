@@ -104,7 +104,7 @@
   A composição de múltiplos comparadores demanda o uso de operadores lógicos. Nas tabelas a seguir, as variáveis ```A``` e ```B``` são valores verdade, em que ```1``` é a constante associada ao valor verdadeiro, e o ```0``` é o valor verdade falso.
 
 
-  ### OPERADOR LÓGICO NÃO (!)
+  ### OPERADOR LÓGICO NÃO/NOT (!)
 
   A | ! A |
  ---|-----|
