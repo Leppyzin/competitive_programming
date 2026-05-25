@@ -44,3 +44,4 @@ Lucas Modesto.
   ### 1- [Primeiros passos e introdução da Linguagem C](https://github.com/Leppyzin/Programacao_competitiva/tree/main/Aula_01)
   ### 2- [Algumas dicas para resolução de problemas](https://github.com/Leppyzin/Programacao_competitiva/blob/main/como%20resolver%3F/LEIA.MD)
   ### 3- [Algoritmos Computacionais Sequenciais](https://github.com/Leppyzin/Programacao_competitiva/tree/main/Aula_02/Algoritmos%20Computacionais%20Sequenciais)
+  ### 4- [Estrutura Condicional](https://github.com/Leppyzin/Programacao_Competitiva/tree/main/Aula_03)
