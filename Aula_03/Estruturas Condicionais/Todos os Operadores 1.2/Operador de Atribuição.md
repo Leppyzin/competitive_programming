@@ -15,7 +15,7 @@
 
 ![atribuicao2](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/atribuicao_codigo_resultado.png?raw=true)
 
- Nesse exemplo, conseguimos notar que o operador de atribuição pode ser utilizado no momento da declaração da variável (linha 8). Desse modo, a variável já é declarada possuindo um valor inicial.
+ Nesse exemplo, conseguimos notar que o operador de at6-05-25 15-22-25ribuição pode ser utilizado no momento da declaração da variável (linha 8). Desse modo, a variável já é declarada possuindo um valor inicial.
 
  ### Atenção!!!!!
 
@@ -31,7 +31,19 @@
 
   ### Informação que pode ser importante!!!
 
-   A linguagem C suporta múltiplas atribuições.
+   A linguagem C suporta múltiplas atribuições. Como por exemplo no código a seguir:
+
+   ![matribuicoes](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/codigo_matribuicao.png?raw=true)
+
+   ### Saída
+
+   ![matribuicoesr](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/codigo_matribuicaor.png?raw=true)
+
+   Nesse exemplo, o valor 5 é copiado para a variável z. Lembre-se: o valor da **direita** é sempre armazenado na variável especificada à sua **Esquerda.** Em seguida, o valor de z é copiado para a variável y e, na sequência, o valor de y é copiado para x.
+   A linguagem C também permite a atribuição entre tipos básicos diferentes. O compilador **converte** automaticamente o valor do lado direito para o tipo do lado esquerdo do comando de atribuição "=". Durante a etapa de conversão de tipos, pode haver perda de informação.
+   **Na conversão de tipos pode haver perda de informação.**
+
+   
 
     
 
