@@ -9,4 +9,7 @@ Uma estrutura condicional em Linguagem C permite ao algoritmo a tomada de decis�
 
    ![Estrutura Condicional 2](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/Estrutura_condicional.png?raw=true)
 
+   Isso é muito parecido com o que ocorre em um fluxograma, em que o símbolo do losango permite escolher entre diferentes caminhos com base em uma condição do tipo verdadeiro/falso.
+
    Na linguagem C, temos 2 tipos de comandos para estrutura condicional, sendo eles, **if-else e switch-case**. Elas são detalhadas nas subseções seguintes após trabalharmos a criação de comparações para a elaboração das condições.
+   
