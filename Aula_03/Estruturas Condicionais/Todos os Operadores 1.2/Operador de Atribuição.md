@@ -9,4 +9,4 @@
 
   Veja o seguinte código como exemplo;
 
-  [imagem_codigo_atribuicao](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/Captura%20de%20tela%20de%202026-05-25%2014-46-20.png?raw=true)
+
