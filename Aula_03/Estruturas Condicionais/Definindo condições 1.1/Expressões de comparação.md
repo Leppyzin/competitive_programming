@@ -60,7 +60,7 @@
 
  sintaxe da comparação:
  ```a == b```
-
+m
  ### Diferente (!=)
 
   Retorna verdadeiro se ```a``` for diferente de ```b```, ou falso caso contrário. Basicamente, essa comparação responde a pergunta: "a é diferente de b??"
@@ -129,4 +129,48 @@
   1 | 0 |    1   |
   1 | 1 |    1   |
 
+## Exemplos:
+
+Verificar se um número inteiro ```x``` é não-negativo e ímpar:
+```x >= 0 && (x % 2) != 0```
+
+Verificar se um número inteiro ```x``` está contido no intervalo [a,b]:
+```x >= a && x < b```
+
+Verificar se um número inteiro ```x``` está contido no intervalo [a,b):
+```x >= a && x < b```
+
+Verificar se um número inteiro ```x``` é múltiplo de 3 ou multiplo de 7:
+ ```x % 3 == 0 || x % 7 == 0```
+
+ ## Ordens de Precedência
+
+  Na Linguagem C, temos ordem de precedência também nos nossos operadores. O uso de várias expressões comparativas nas condicionais são avaliadas com base na ordem de precedência dos operadores. Os operadores a seguir, da mais alta de precedência para a mais baixa:
+
+  1. Parênteses, usado para agrupar expressões e alterar a ordem de avaliação: ();
+  2. Operador de negação lógica(não): ```!```
+  3. Multiplicação, divisão e resto da divisão: ```*```, ```/```, ```%```;
+  4. Adição e subtração: ```+```, ```-```;
+  5. Operadores de comparação: ```<```,```<=```,```>```, ```>=```;
+  6. Operadores de igualdade e diferença, respectivamente: ```==``` e ```!=```;
+  7. Operador Lógico E: ```&&```;
+  8. Operador Lógico OU: ```||```.
+
+  Em uma expressão comparativa, os operadores com maior precedência são avaliados primeiro em relação aos demais. Para isso, o compilador analisa a sintaxe da expressão, identificando os operandos e os operadores. Se houver operadores com a mesma precedência, a associatividade dos operadores irá determinar a ordem de avaliação das comparações. Por exemplo, a expressão comparativa abaixo:
+
+  ```a > 0 && b != -1 || a > b```
+
+  é processada na seguinte ordem:
+
+  1. ```a > 0```, retornando um valor verdade (bool1)
+  2. ```b != -1``` , retornando um valor verdade (bool2)
+  3. ```a > b```, retornando um valor verdade (bool3)
+
+  e depois, com as precedências menores, os operadores lógicos, já que temos que processar algo na forma:
+
+  ```bool1 && bool2 || bool3```
+
+  por fim, executa-se a expressão lógica a acima.
+
+  Se houver dúvidas quanto ao uso das ordens de avaliação, prefira usar os parênteses para deixar claro qual é a ordem desejada de processamento das expressões comparativas.
   
