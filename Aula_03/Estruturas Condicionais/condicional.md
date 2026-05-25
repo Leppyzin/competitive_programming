@@ -7,7 +7,6 @@ Uma estrutura condicional em Linguagem C permite ao algoritmo a tomada de decis�
 
    Observe que na imagem acima uma condição sempre retorna 2 parâmetros, ou um valor verdadeiro ou um falso. A ideia é justamente produzir um programa que segue um fluxo de comandos específico, expressões e instruções para cada um desses casos, sendo o caso verdadeiro sempre obrigatório.
 
-   ![Estrutura Condicional 2]()
-)
+   ![Estrutura Condicional 2](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/Estrutura_condicional.png?raw=true)
 
    Na linguagem C, temos 2 tipos de comandos para estrutura condicional, sendo eles, **if-else e switch-case**. Elas são detalhadas nas subseções seguintes após trabalharmos a criação de comparações para a elaboração das condições.
