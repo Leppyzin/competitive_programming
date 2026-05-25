@@ -4,11 +4,11 @@
 
   Operador | Significado | Exemplo |
   -------- | ----------- | ------- |
-  operador (+)| Adição de dois valores | z = x+y |
-  operador (-)| Subtração de dois valores | z = x-y |
-  operador (*)| Multiplicação de dois valores | z = x*y |
-  operador (/)| quociente de dois valores | z = x/y |
-  operador (%)| resto de uma divisão | z = x%y |
+  operador "+"| Adição de dois valores | z = x+y |
+  operador "-"| Subtração de dois valores | z = x-y |
+  operador "*"| Multiplicação de dois valores | z = x*y |
+  operador "/"| quociente de dois valores | z = x/y |
+  operador "%"| resto de uma divisão | z = x%y |
 
   Note que os operadores aritméticos são sempre usados em conjunto com o operador de atribuição. Afinal de contas, alguém precisa receber o resultado da expressão aritmética.
   **Em uma expressão, as operações de multiplicação, divisão e resto são executadas antes das operações de adição e subtração. Para forçar uma operação a ser executada antes das demais, ela é colocada entre parênteses.**
