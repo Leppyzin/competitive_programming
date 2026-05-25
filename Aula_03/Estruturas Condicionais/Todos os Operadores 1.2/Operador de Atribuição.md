@@ -9,4 +9,4 @@
 
   Veja o seguinte código como exemplo;
 
-
+![atribuicao1](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/atribuicao_codigo.png?raw=true)
