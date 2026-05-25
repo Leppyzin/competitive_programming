@@ -25,6 +25,14 @@
 
   ![correta](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/corretoeerradoatribuicao.png?raw=true)
 
-  
+  ### Atençãoo 2.0!!!!
+
+  É importante sempre ter em mente que o operador de atribuição "=" calcula a expressão à direita do operador "=" e atribui esse valor à variável à esquerda do operador, nunca o contrário.
+
+  ### Informação que pode ser importante!!!
+
+   A linguagem C suporta múltiplas atribuições.
+
+    
 
   
