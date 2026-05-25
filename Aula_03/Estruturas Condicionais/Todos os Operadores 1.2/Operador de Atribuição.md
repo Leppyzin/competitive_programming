@@ -10,3 +10,7 @@
   Veja o seguinte código como exemplo;
 
 ![atribuicao1](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/atribuicao_codigo.png?raw=true)
+
+### Saída
+
+![atribuicao2](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/atribuicao_codigo_resultado.png?raw=true)
