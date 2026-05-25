@@ -21,7 +21,9 @@
 
   O operador de atribuição "=" armazena o valor ou resultado de uma expressão contida à sua **direita** na variável especificada à sua esquerda.
 
-  A seguir veremos formas incorretas de se armazenar uma variável:
+  A seguir veremos formas incorretas e corretas de se armazenar uma variável:
+
+  ![correta](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/corretoeerradoatribuicao.png?raw=true)
 
   
 
