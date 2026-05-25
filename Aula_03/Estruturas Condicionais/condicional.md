@@ -13,5 +13,5 @@ Uma estrutura condicional em Linguagem C permite ao algoritmo a tomada de decis�
 
    Na linguagem C, temos 2 tipos de comandos para estrutura condicional, sendo eles, **if-else e switch-case**. Elas são detalhadas nas subseções seguintes após trabalharmos a criação de comparações para a elaboração das condições.
 
-   ### [1. Definindo Condições](https://github.com/Leppyzin/Programacao_Competitiva/tree/main/Aula_03/Estruturas%20Condicionais/Definindo%20condi%C3%A7%C3%B5es%201.1)
+   ### 1. [Definindo Condições](https://github.com/Leppyzin/Programacao_Competitiva/tree/main/Aula_03/Estruturas%20Condicionais/Definindo%20condi%C3%A7%C3%B5es%201.1)
    
