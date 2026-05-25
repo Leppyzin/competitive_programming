@@ -5,7 +5,7 @@
   Operador | Significado | Exemplo |
   -------- | ----------- | ------- |
   + | Adição de dois valores | z = x+y |
-  - | Subtração de dois valores | z = x-y |
+  "-" | Subtração de dois valores | z = x-y |
   * | Multiplicação de dois valores | z = x*y |
   / | quociente de dois valores | z = x/y |
   % | resto de uma divisão | z = x%y |
