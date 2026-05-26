@@ -8,4 +8,6 @@
 
   Para modelar esse tipo de situação, a Linguagem C possui um conjunto de três operadores lógicos, como mostra a tabela;
 
+  ![Tabela_Operadores_Logicos](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/OperadoresLogicos.png?raw=true)
+
   
