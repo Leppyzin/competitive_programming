@@ -108,5 +108,66 @@ fora do **if**.
 ### A sequência de comandos de *IF* é independente da sequência de comandos de *ELSE*. Cada comando tem o seu próprio conjunto de chaves ({}).
 
  Se o comando **if** for executado em um programa, o seu comando **else** não será executado. Portanto, não faz sentido usar o mesmo conjunto de chaves ({}) para definir os dois conjuntos de comandos.
+ 
+ ## Aninhamento de IF
 
-  
+  Um **if** aninhado é simplesmente um comando **if** utilizado dentro do bloco de comandos de um outro **if** (ou **else**) mais externo. Basicamente, é um comando **if** dentro de outro.
+A forma geral de um comando **if** aninhado é:
+
+```
+  if(condicao 1) {
+      sequencia de comandos;
+      if(condicao 2) {
+          sequencia de comandos;
+          if...
+      } else {
+          sequencia de comandos;
+          if...
+      }
+  }
+  else {
+      sequencia de comandos;
+ }
+```
+   Em um aninhamento de **ifs,** o programa começa a testar as condições começando pela **condição 1.** Se o resultado dessa condição for diferente de zero (verdadeiro), o programa executará o bloco de comandos associados a ela. Do contrário, executará o bloco de comandos associados ao comando **else** correspondente, se ele existir. Esse processo se repete para cada comando **if** que o programa encontrar dentro do bloco de comando que executar.
+   o aninhamento de **ifs** é muito útil quando se tem mais do que dois caminhos para executar dentro de um programa. Por exemplo, o comando **if** é suficiente para dizer se um número é maior do que outro número ou não. Porém, ele sozinho é incapaz de dizer se um número é maior do que outro número ou não. Porém, ele sozinho é incapaz de dizer se esse mesmo número é maior, menor ou igual ao outro.  
+   <br>
+
+   Isso fica bem claro quando olhamos a representação do aninhamento de **ifs** em um fluxograma;
+
+   ![aninhamentodeifs](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/aninhamentodeifs.png?raw=true)
+
+  <br>
+
+  ### O único cuidado que devemos ter no aninhamento de *ifs* é o de saber exatamente a qual *if* determinado *else* está ligado.
+
+  Esse cuidado fica claro no exemplo a seguir: apesar de o comando **else** estar alinhado com o primeiro comando **if**, ele está na verdade associado ao segundo **if**. Isso acontece porque o comando **else** é sempre associado ao primeiro comando **if** encontrado antes dele dentro de um bloco de comandos.
+
+```
+    if(cond1)
+        if(cond2)
+          sequencia de comandos;
+    else
+        sequencia de comandos;
+```
+
+  No exemplo anterior, para fazer com que o comando **else** fique associado ao primeiro comando **if** é necessário definir um novo bloco de comandos (usando os operadores de chaves ({}) para isolar o comando **if** mais interno.
+
+```
+    if(cond1){
+        if(cond2)
+        sequencia de comandos;
+    } else
+        sequencia de comandos;
+```
+### Não existe aninhamento de elses. 
+
+  O comando **else** é o caso contrário da condição do comando **if.** Assim, para cada **else** deve existir um **if** anterior, porém nem todo **if** precisa ter um **else.**
+
+  ```
+    if(cond1)
+        sequencia de comandos;
+    else
+        sequencia de comandos;
+    else //ERRO!!! GAFÉ!!!!!! TERRÍVEL!!!
+        sequencia de comandos;
