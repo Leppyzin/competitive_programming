@@ -6,6 +6,8 @@
 
   <br>
 
+  ### Os seis operadores bit a bit
+
   ![bit a bit](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/Operadores_bit_a_bit.png?raw=true)
 
   
