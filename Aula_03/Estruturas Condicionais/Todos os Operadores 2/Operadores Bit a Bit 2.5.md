@@ -4,4 +4,6 @@
 
   ### Os operadores bit a bit ajudam os programadores que queiram tabalhar com o computador em "Baixo Nível"!!
 
+  ![bit a bit](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/Operadores_bit_a_bit.png?raw=true)
+
   
