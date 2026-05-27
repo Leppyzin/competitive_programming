@@ -16,3 +16,5 @@ Uma estrutura condicional em Linguagem C permite ao algoritmo a tomada de decis�
    ### 1- [Definindo Condições](https://github.com/Leppyzin/Programacao_Competitiva/tree/main/Aula_03/Estruturas%20Condicionais/Definindo%20condi%C3%A7%C3%B5es%201.1)
    
    ### 2- [Todos Os Operadores](https://github.com/Leppyzin/Programacao_Competitiva/tree/main/Aula_03/Estruturas%20Condicionais/Todos%20os%20Operadores%202) 
+
+   ### 3- [estruturaif](https://github.com/Leppyzin/Programacao_Competitiva/tree/main/Aula_03/Estruturas%20Condicionais/Estrutura_IF-ELSE)
