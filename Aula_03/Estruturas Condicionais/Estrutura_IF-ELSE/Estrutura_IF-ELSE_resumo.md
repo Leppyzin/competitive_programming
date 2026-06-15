@@ -32,7 +32,53 @@
 
 } else if(condições n){
     bloco de comando caso a condicao n seja cumprida...
+} else {
+    bloco de comandos...
 }
  ```
 
- O fluxo de execução da estrutura funciona como uma estrutura **if-else** aninhada 
+ O fluxo de execução da estrutura funciona como uma estrutura **if-else** aninhada. A condicao 1 é a primeira a ser avaliada e caso ela seja uma verdade, o bloco de comandos relacionado a ela acontece. Assim, sucessivamente... Caso todas as condições sejam falsas, o bloco ```else``` será executado por padrão (Default) que, por sinal, é opcional. 
+
+ **IMPORTANTE:** o certo é colocar else if com espaço em branco separado entre as palavras else e if. É incorreto colocar elif (esse comando é do Python!!!) e elseif.
+
+ As seguintes vantagens podem ser observadas com o uso do ```else-if```:
+
+  - Não existe mais o efeito cascata na direita do código-fonte conforme se abre chaves('{}'). A identação fica pura.
+  - Existem menos chaves;
+  - Código-fonte menos verboso (menos caracteres visíveis).
+
+## if-else com Operadores Ternários
+
+Os operadores ternários são uma forma compacta de representar a estrutura if-else, utilizando três operadores:
+
+```condicao ? comando_if_true : comando_if_false```
+
+onde ```condicao``` é a equivalência da verificação do ```ìf```, ```comando_if_true``` a tarefa a ser executada se ```condicao``` for verdadeira e ```comando_if_false``` quando a condicao for falsa (como no ```else```).
+
+ Representando os operadores de forma equivalente com a estrutura propriamente dita, seria:
+
+ ```
+if(condicao)
+   comando_if_true;
+else
+   comando_if_false;
+```
+alguns cuidados serão necessários ao usar os operadores ternários, como:
+
+ - Os comandos devem ser apenas expressões simples, como uma escolha de sim ou não, e não comandos múltiplos;
+ - O uso execessivo pode causar dificuldade na leitura do código, com grandes poderes se tem grandes responsabilidades;
+
+### Exemplo de código simples:
+
+```
+#include <stdio.h>
+
+int main(){
+
+    int num = 5;
+    
+    (num > 10) ? printf("%d eh maior que 10\n", num) : printf("%d eh menor ou igual a 10\n",num);
+
+    return 0;
+}
+```
