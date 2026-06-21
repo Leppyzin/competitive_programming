@@ -10,7 +10,7 @@
    A linguagem C possui muitas funções já implementadas, e as temos utilizado constantemente. Um exemplo são as funções básicas de entrada e saída: **scanf()** e **printf()**. O programador não precisa saber o código contido dentro das funções de entrada e saída para utilizá-las. Basta saber seu nome e como utilizá-la.
    Assim, a finalidade deste capítulo é apresentar os conceitos e detalhes necessários para um programador criar suas próprias funções dentro da linguagem C.
 
-   5.1 - [Por que usar funções?]()
+   5.1 - [Por que usar funções?](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Aula_04/Fun%C3%A7%C3%B5es/1%20-%20Por%20que%20usar%20fun%C3%A7%C3%B5es%3F.md)
 
 
    5.2 - [Estrutura de uma função]()
