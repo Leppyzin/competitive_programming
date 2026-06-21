@@ -20,3 +20,14 @@ Uma estrutura condicional em Linguagem C permite ao algoritmo a tomada de decis�
    ### 3- [Estrutura Técnica IF-ELSE](https://github.com/Leppyzin/Programacao_Competitiva/tree/main/Aula_03/Estruturas%20Condicionais/Estrutura_IF-ELSE)
 
    ### 4- [Estrutura IF-ELSE]()
+
+   ## Exercícios Resolvidos em Aula
+
+   
+   5.5 - [Beecrowd - 2313 | Qual Triângulo]() [Solução sem funções]() [Solução com  funções]()
+
+
+   5.6 - [Beecrowd - 2409 | Colchão]() [Resolução]() [Solução]()
+   
+
+   
