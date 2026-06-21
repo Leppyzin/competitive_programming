@@ -4,7 +4,7 @@
 
    Usar funções em códigos na Linguagem C é uma prática importante para tornar o desenvolvimento mais organizado, eficiente e compreensível. 
 
-   [função](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/funcoes.png)
+   [função.png](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/funcoes.png)
 
    5.1 - [Por que usar funções?]()
 
