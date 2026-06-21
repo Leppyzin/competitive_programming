@@ -69,3 +69,16 @@ int Square (int a){
 
   **int Square (int a);**
   **int Square (int);**
+
+## Funcionamento de uma função
+
+  Independentemente de onde uma função seja declarada, seu funcionamento é basicamente o mesmo:
+
+   - O código do programa é executado até encontrar uma chamada de função.
+   - O programa é então interrompido temporariamente, e o fluxo do programa passa para a função chamada.
+   - Se houver parâmetros na função, os valores da chamada da função são copiados para os parâmetros no código da função
+   - Os comandos da função termina (seus comandos acabaram ou o comando **return** foi encontrado), o programa volta ao ponto em que foi interrompido para continuar a sua execução normal.
+   - Se houver um comando **return**, i valor dele será copiado para a variável que foi escolhida para receber o retorno da função.
+
+ ## No exemplo a seguir é possível ter uma boa representação de como uma chamada de função ocorre.
+ 
