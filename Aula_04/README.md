@@ -13,17 +13,20 @@
    5.1 - [Por que usar funções?](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Aula_04/Fun%C3%A7%C3%B5es/1%20-%20Por%20que%20usar%20fun%C3%A7%C3%B5es%3F.md)
 
 
-   5.2 - [Estrutura de uma função]()
+   5.2 - [Declarando uma função](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Aula_04/Fun%C3%A7%C3%B5es/2%20-%20Declarando%20uma%20fun%C3%A7%C3%A3o.md)
 
 
-   5.3 - [Variáveis e escopo]()
+   5.3 - [Estrutura de uma função]()
 
 
-   5.4 - [Exemplos]()
+   5.4 - [Variáveis e escopo]()
+
+
+   5.5 - [Exemplos]()
 
    ## Exercícios Resolvidos em Aula
 
-   5.5 - [Beecrowd - 2313 | Qual Triângulo]() -- [Solução sem Funções]() -- [Solução com Funções]()
+   5.6 - [Beecrowd - 2313 | Qual Triângulo]() -- [Solução sem Funções]() -- [Solução com Funções]()
 
 
-   5.6 - [Beecrowd - 2409 | Colchão]() -- [Resolução]() -- [Solução]()
+   5.7 - [Beecrowd - 2409 | Colchão]() -- [Resolução]() -- [Solução]()
