@@ -70,7 +70,7 @@ int Square (int a){
   **int Square (int a);**
   **int Square (int);**
 
-## Funcionamento de uma função
+### Funcionamento de uma função
 
   Independentemente de onde uma função seja declarada, seu funcionamento é basicamente o mesmo:
 
