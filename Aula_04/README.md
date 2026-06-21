@@ -16,3 +16,10 @@
 
 
    5.4 - [Exemplos]()
+
+   ## Exercícios Resolvidos em Aula
+
+   5.5 - [Beecrowd - 2313 | Qual Triângulo]() [Solução sem Funções]() [Solução com Funções]()
+
+
+   5.6 - [Beecrowd - 2409 | Colchão]() [Resolução]() [Solução]()
