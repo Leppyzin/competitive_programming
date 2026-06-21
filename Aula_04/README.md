@@ -15,7 +15,6 @@
 
    5.2 - [Declarando uma função](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Aula_04/Fun%C3%A7%C3%B5es/2%20-%20Declarando%20uma%20fun%C3%A7%C3%A3o.md)
 
-
    5.3 - [Estrutura de uma função]()
 
 
