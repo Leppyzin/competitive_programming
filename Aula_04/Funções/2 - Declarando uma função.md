@@ -81,4 +81,6 @@ int Square (int a){
    - Se houver um comando **return**, i valor dele será copiado para a variável que foi escolhida para receber o retorno da função.
 
  ## No exemplo a seguir é possível ter uma boa representação de como uma chamada de função ocorre.
+
+ ![chamada da função](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/chamadadafun%C3%A7ao.png).
  
