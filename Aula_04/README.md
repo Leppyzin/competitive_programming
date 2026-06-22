@@ -15,7 +15,7 @@
 
    5.2 - [Declarando uma função](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Aula_04/Fun%C3%A7%C3%B5es/2%20-%20Declarando%20uma%20fun%C3%A7%C3%A3o.md)
 
-   5.3 - [Estrutura de uma função]()
+   5.3 - [Estrutura de uma função](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Aula_04/Fun%C3%A7%C3%B5es/3%20-%20Estrutura%20de%20uma%20fun%C3%A7%C3%A3o.md)
 
 
    5.4 - [Variáveis e escopo](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Aula_04/Fun%C3%A7%C3%B5es/4%20-%20Vari%C3%A1veis%20em%20Fun%C3%A7%C3%B5es%20e%20Escopo.md)
