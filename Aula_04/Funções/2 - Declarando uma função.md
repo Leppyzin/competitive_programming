@@ -17,7 +17,7 @@
   ```
   #include <stdio.h>
 
-  int Square (**int** a){
+  int Square (int a){
       return (a*a);
   }
 
