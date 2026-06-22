@@ -171,7 +171,7 @@ Quando o programa começa a rodar, as variáveis têm seus espaços na memória 
 
 Depois, o comando ```scanf("%d",&a);``` espera que o usuário digite algum valor inteiro. Suponha que o usuário digite 3. Esse valor será armazenado na variável ```a```:
 
-![passagem_valor2](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/passagem_valor_02.png).
+![passagem_valor2](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/passagem_valor_2.png)
 
 Em seguida, existe a chamada da função ```sucessor(a);```. O valor armazenado em ```a``` é copiado para a variável ```x``` da função ```sucessor```, denotando uma **passagem pro valor,** já que essas variáveis são inteiras:
 
