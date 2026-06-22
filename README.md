@@ -1,4 +1,4 @@
-# Programacao_competitiva
+# Programação Competitiva
   Esse repositório vai ser para meus maguinhos da Programação, vai ser destinado justamente para os alunos que querem dedicar o tempo para a programação competitiva. Nós vamos compartilhar conhecimento entre nós, vou tentar, com meu humilde conhecimento, mostrar esse mundo para eles. Luto por uma educação mais justa. Vamos juntos nessa aventura.
 
 Queria agradecer ao professor [Vinicius Ruela Pereira Borges](https://viniciusrpb.github.io/), que nem deve saber da minha existência, mas vale a pena agradecer. Ele foi quem me apresentou o mundo da programação competitiva. Esse repositório foi todo baseado no repertório dele. Sendo assim, a minha principal referência para a produção dos conteúdos junto ao Professor Daniel Porto.
