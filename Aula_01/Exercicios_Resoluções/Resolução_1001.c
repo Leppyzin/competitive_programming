@@ -4,8 +4,10 @@
 
 int main(){ //estrutura basica da linguagem C
     int x,y,r; //declarando minhas variáveis do tipo inteiro
+    char buf[64]; //buffer para leitura segura
 
-    scanf("%d%d",&x,&y); //recebendo os valores variáveis do meu usúario.
+    fgets(buf, sizeof(buf), stdin); //recebendo os valores variáveis do meu usúario.
+    sscanf(buf, "%d %d", &x, &y);
   
     r = x+y; //aqui estou atribuindo "==" um valor da soma dos 2 termos para a minha variável
 
