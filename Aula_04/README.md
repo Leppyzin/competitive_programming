@@ -21,7 +21,7 @@
    5.4 - [Variáveis e escopo](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Aula_04/Fun%C3%A7%C3%B5es/4%20-%20Vari%C3%A1veis%20em%20Fun%C3%A7%C3%B5es%20e%20Escopo.md)
 
 
-   5.5 - [Exemplos]()
+   5.5 - [Exemplos](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Aula_04/Fun%C3%A7%C3%B5es/5%20-%20Exemplos.md)
 
    ## Exercícios Resolvidos em Aula
 
