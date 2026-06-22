@@ -25,7 +25,14 @@
 
    ## Exercícios Resolvidos em Aula
 
-   5.6 - [Beecrowd - 2313 | Qual Triângulo]() -- [Solução sem Funções]() -- [Solução com Funções]()
+   5.6 - [Beecrowd - 2313 | Qual Triângulo](https://judge.beecrowd.com/pt/problems/view/2313) -- [Solução sem Funções]() -- [Solução com Funções]()
 
 
-   5.7 - [Beecrowd - 2409 | Colchão]() -- [Resolução]() -- [Solução]()
+   5.7 - [Beecrowd - 2409 | Colchão](https://judge.beecrowd.com/pt/problems/view/2409) -- [Resolução]() -- [Solução]()
+
+   ## Exercícios Resolvidos
+
+   5.8 - [Beecrowd - 2462 | Voo](https://judge.beecrowd.com/pt/problems/view/2462) -- [Resolução]() -- [Solução]()
+
+
+   5.9 - [Beecrowd - 3217 | Chuva Caindo](https://judge.beecrowd.com/pt/problems/view/3217) -- [Resolução]() -- [Solução]()
