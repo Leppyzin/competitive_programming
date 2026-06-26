@@ -16,7 +16,7 @@ int main() {
     if (mf >= mi) {
         tempom = mf - mi;
     } else {
-        tempom = 60 + mf - mi;
+        tempom = 60 + mf - mi; // como aqui ultrapasso a marca de 60 minutos na primeira soma e depois pego a subtracao disso tudo, tenho que remover o tempo da hora que peguei "emprestada"
         tempoh--;  
     }
 
