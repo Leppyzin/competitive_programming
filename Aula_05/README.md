@@ -19,6 +19,10 @@
 
   ![fluxo_rep](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/fluxo_rep.png)
 
+  **ATENÇÃO!!** De acordo com a condição, os comandos serão repetidos zero (se falsa) ou mais vezes (enquanto a condição for verdadeira). Essa estrutura normalmente é denominada laço ou loop
+
+  
+
   
 
   
