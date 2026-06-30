@@ -15,6 +15,10 @@
  ```
   Para isso, precisamos de uma estrutura de repetição que permita executar um conjunto de comandos quantas vezes forem necessárias. 
 
-  Segue o exemplo em fluxograma;
+  Segue o exemplo em fluxograma:
+
+  ![fluxo_rep](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/fluxo_rep.png)
+
+  
 
   
