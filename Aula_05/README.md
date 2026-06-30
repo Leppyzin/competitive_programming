@@ -6,9 +6,15 @@
   Código em pseudocódigo
  
  ```
-  enquanto condição faça
-      sequencia de comandos;
-  fim enquanto
+ leia A e B;
+ enquanto A < B
+     A recebe A + 1;
+     imprima A;
+ Fim Enquanto
 
  ```
   Para isso, precisamos de uma estrutura de repetição que permita executar um conjunto de comandos quantas vezes forem necessárias. 
+
+  Segue o exemplo em fluxograma;
+
+  
