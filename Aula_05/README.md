@@ -11,4 +11,4 @@
   fim enquanto
 
  ```
-  Para
+  Para isso, precisamos de uma estrutura de repetição que permita executar um conjunto de comandos quantas vezes forem necessárias. 
