@@ -46,3 +46,4 @@ Lucas Modesto.
   ### 3 - [Algoritmos Computacionais Sequenciais](https://github.com/Leppyzin/Programacao_competitiva/tree/main/Aula_02/Algoritmos%20Computacionais%20Sequenciais)
   ### 4 - [Estrutura Condicional](https://github.com/Leppyzin/Programacao_Competitiva/tree/main/Aula_03)
   ### 5 - [Funções](https://github.com/Leppyzin/Programacao_Competitiva/tree/main/Aula_04)
+  ### 6 - [Estrutura de Repetição](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/README.md)
