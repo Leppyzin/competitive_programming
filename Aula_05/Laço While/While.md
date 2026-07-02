@@ -109,3 +109,133 @@ int main(){
 
     return 0;
 }
+```
+![While_fluxograma](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/fluxowhile.png)
+
+## Comandos break e continue
+
+### Break
+
+ O comando ```break``` interrompe um laço, sendo ele ```for```, ```while``` ou ```do-while```, continuando a execução na linha imediata depois do laço que está sendo interrompido. Como deve ser testada alguma condição para que a execução do laço seja encerrada, o comando break deve estar sempre dentro de uma estrutura condicional [if-else](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_03/README.md) (quando em laço de repetição). Caso se esqueça de definir a condição para a interrupção, o bloco de código será encerrado sempre na primeira repetição do laço. 
+
+ Também pode ser utilizado na estrutura switch-case.
+
+ ```
+#include <stdio.h>
+
+int main(){
+
+    int n;
+
+    printf("Digite um número diferente de 0:\n");
+    scanf("%d",&n);
+
+    while(1){
+
+        /* declarar while(1) faz com que a condição sempre seja verdadeira e o laço sempre seja executado (laço                       infinito),pois 1 eh diferente de 0 */
+
+        if(n == 0){
+             break;
+        }
+
+        /* Se o numero for igual a 0, todo o restante do laco eh ignorado e ele eh interrompido */
+
+        printf("Voce digitou %d\n",n);
+        printf("Digite um numero diferente de 0:\n");
+        scanf("%d",&n);
+        }
+
+    return 0;
+}
+```
+
+Perceba que esse código pode ser substuído pela seguinte lógica mantendo o mesmo funcionamento:
+
+```
+#include <stdio.h>
+
+int main(){
+
+    int n;
+
+    printf("Digite um numero diferente de 0:\n");
+    scanf("%d",&n);
+
+    while(n != 0){
+        printf("Voce digitou %d\n", n);
+        printf("Digite um numero diferente de 0:\n");
+        scanf("%d",&n);
+
+    }
+
+    return 0;
+}
+```
+
+**!!IMPORTANTE:** a utilização do ```while(1)``` é funcional somente quando há um comando break, caso contrário o laço NUNCA será encerrado.
+
+### Continue
+
+ O comando ```continue``` pula para a próxima repetição do laço (se houver), ignorando as linhas seguintes ao comando **ainda dentro da repetição atual.** Isso significa que também é necessário verificar uma condição, e nesse caso ```continue``` só é utilizada junto de if-else. É importante se atentar à ordem em que o comando aparece dentro da repetição, pois ignora o que vem depois; portanto, se colocado como o último comando a ser executado, se torna ineficiente.
+
+ Pode ser utilizado em todas as estruturas de repetição. 
+
+ ```
+#include <stdio.h>
+
+int main(){
+    int n, i =5;
+
+    while(i > 0){
+        i--;
+
+        printf("Digite um numero diferente de 5:\n");
+        scanf("%d", &n);
+
+        if(n == 5){
+            continue;
+        }
+
+        /* se o numero for igual a 5, o printf sera ignorado e o codigo pedirah o proximo numero */
+
+        printf("Voce digitou %d\n",n);
+
+    }
+
+    return 0;
+}
+```
+Exemplo de um ```continue``` ineficiente:
+
+```
+#include <stdio.h>
+
+int main(){
+
+    int n, i = 5;
+
+    while(i > 0){
+        i--;
+
+        // Como estamos usando um comando que pula para a proxima repeticao, devemos ter cuidado com incrementos e decrementos. se colocarmos depois do continue, o codigo pode nao apresentar o comportamento desejado.
+
+        printf("Digite um numero diferente de 5:\n");
+        scanf("%d",&n);
+        printf("Voce digitou %d\n",n);
+
+        if(n == 5){
+            continue;
+        }
+
+    }
+    return 0;
+}
+```
+
+## Ler Dados da Entrada até Fim de Arquivo (EOF)
+
+  Uma situação comum nos juízes online é ter que realizar a leitura de **Vários casos de teste em uma única entrada** até o final do arquivo (End Of File) - EOF. Esse é um caso típico em que não sabemos quantos casos de teste existem na entrada, então o laço ```while``` é mais indicado para essa situação.
+
+  Se você topar com um problema ou exercício em que os dados da entrada tem que ser lidos até encontramos fim de arquivo (EOF), teremos que utilizar o valor de retorno da função ```scanf().``` **SIM, a função scanf() retorna um valor inteiro** indicando o número de valores da entrada formatada que foram convertidos e atribuídos às variáveis especificadas com sucesso. Se nenhum item for atribuído, ```scanf()``` retorna 0. Agora, se ```scanf()``` não conseguir ler nada da entrada, o valor retornado é ```-1```, que é equivalente aos três caracteres EOF (EOF é uma palavra reservada - não pode ser utilizada em nomes de variáveis e nomes de funções).
+
+  O código-fonte abaixo descreve a situação em que números inteiros são sucessivamente lidos da entrada e impressos na tela até que não exista mais nenhum número fornecido na entrada padrão:
