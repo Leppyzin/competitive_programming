@@ -239,3 +239,41 @@ int main(){
   Se você topar com um problema ou exercício em que os dados da entrada tem que ser lidos até encontramos fim de arquivo (EOF), teremos que utilizar o valor de retorno da função ```scanf().``` **SIM, a função scanf() retorna um valor inteiro** indicando o número de valores da entrada formatada que foram convertidos e atribuídos às variáveis especificadas com sucesso. Se nenhum item for atribuído, ```scanf()``` retorna 0. Agora, se ```scanf()``` não conseguir ler nada da entrada, o valor retornado é ```-1```, que é equivalente aos três caracteres EOF (EOF é uma palavra reservada - não pode ser utilizada em nomes de variáveis e nomes de funções).
 
   O código-fonte abaixo descreve a situação em que números inteiros são sucessivamente lidos da entrada e impressos na tela até que não exista mais nenhum número fornecido na entrada padrão:
+
+  ```
+#include <stdio.h>
+
+int main(){
+
+    int n,r;
+
+    r = scanf("%d",&n);
+
+    while (r != -1){
+
+        printf("Inteiro lido = %d\n",n);
+        r = scanf("%d",&n);
+    }
+
+    return 0;
+}
+```
+Outra possibilidade é fazer:
+
+```
+#include <stdio.h>
+
+int main(){
+
+    int n;
+
+    while (scanf("%d",&n) != EOF) {
+
+        printf("inteiro lido = %d\n",n)
+    }
+
+    return 0;
+}
+```
+
+**Importante: EOF é uma palavra reservada!!!** Não pode utilizá-la para servir como nome de variáveis e funções.
