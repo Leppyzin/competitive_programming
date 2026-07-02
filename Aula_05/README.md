@@ -46,7 +46,7 @@
 
    ### 1. [Fundamentos de Operadores](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/Fundamentos%20de%20Operadores/fundamentos.md)
    
-   ### 2. [Laço While]()
+   ### 2. [Laço While](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/La%C3%A7o%20While/While.md)
 
    ### 3. [Laço For]()
 
