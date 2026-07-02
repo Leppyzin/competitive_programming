@@ -27,6 +27,34 @@
   - **Relacionais:** >,<,>=,<=,==,!=\
   - **Lógicos:** &&,||
 
+  Na execução do comando **enquanto,** a condição será avaliada e:
+
+   - Se a condição for considerada **verdadeira,** a sequência de comandos será executada. Ao final da sequência de comandos, o fluxo do programa é desviado novamente para o teste da condição.
+   - Se a condição for considerada **falsa,** a sequência de comandos não será executada.
+
+
+### Laço infinito
+
+  Um laço infinito (ou loop infinito) é uma sequência de comandos em um programa de computador que sempre se repete, ou seja, infinitamente. Isso geralmente ocorre por algum erro de programação, quando:
+
+  - Não definimos uma condição de parada.
+  - A condição de parada existe, mas nunca é atingida.
+
+   Basicamente, um laço infinito ocorre quando cometemos algum erro ao especificar a condição (ou expressão condicional) que controla a repetição. Outro erro comum que produz um laço infinito é o de esquecer algum comando dentro da sequência de comandos da repetição.
+
+   A Linguagem C contempla as seguintes estruturas de repetição:
+
+   ### 1. [Fundamentos de Operadores]()
+   
+   ### 2. [Laço While]()
+
+   ### 3. [Laço For]()
+
+   ### 4. [Laço Do-while]()
+
+   ## Exercícios Resolvidos
+
+   
  
   
 
