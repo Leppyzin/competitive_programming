@@ -19,8 +19,15 @@
 
   ![fluxo_rep](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/fluxo_rep.png)
 
-  **ATENÇÃO!!** De acordo com a condição, os comandos serão repetidos zero (se falsa) ou mais vezes (enquanto a condição for verdadeira). Essa estrutura normalmente é denominada laço ou loop
+  **ATENÇÃO!!** De acordo com a condição, os comandos serão repetidos zero (se falsa) ou mais vezes (enquanto a condição for verdadeira). Essa estrutura normalmente é denominada laço ou loop.
 
+  Note que a sequência de comandos a ser repetida está subordinada a uma condição. Por **condição** entende-se qualquer expressão relacional (ou seja, que use os operadores >,<,>=,<=,== e !=) que resulte em uma resposta do tipo **verdadeiro** ou **falso.** A condição pode ainda ser uma expressão que utiliza operadores:
+
+  - **Matemáticos:** +,-,*,/,%
+  - **Relacionais:** >,<,>=,<=,==,!=\
+  - **Lógicos:** &&,||
+
+ 
   
 
   
