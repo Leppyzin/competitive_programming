@@ -44,7 +44,7 @@
 
    A Linguagem C contempla as seguintes estruturas de repetição:
 
-   ### 1. [Fundamentos de Operadores]()
+   ### 1. [Fundamentos de Operadores](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/Fundamentos%20de%20Operadores/fundamentos.md)
    
    ### 2. [Laço While]()
 
