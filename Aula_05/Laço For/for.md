@@ -196,7 +196,8 @@ int main(){
 }
 ```
 
-Continue 
+
+### Continue 
 
 ```
 #include <stdio.h>
