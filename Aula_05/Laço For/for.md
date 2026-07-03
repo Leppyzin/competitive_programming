@@ -228,24 +228,5 @@ int main(){
     return 0;
 }
 ```
-## Omitindo uma cláusula do comando ```for```
-
-### Relembrando a estrutura do ```for```:
-
-```
-for(inicialização; Condição; incremento){
-	// bloco de comandos
-}
-```
-### Dependendo da situação em que o comando ```for``` é utilizado, podemos omitir qualquer uma de suas cláusulas:
-
-- Inicialização.
-- Condição.
-- Incremento.
-
-### Independentemente de qual cláusula é omitida, o comando ```for``` exige que se coloquem os dois operadores de ponto e vírgula (;).
-
- O comando ```for``` exige que se coloquem dois operadores de ponto e vírgula (;), pois é esse operador que indica a separação entre as cláusulas de inicialização, condição e incremento. Sem elas, o compilador não tem certeza de qual cláusula foi omitida.
- A seguir, são apresentados três exemplos de comando ```for```, e, em cada um deles, uma das cláusulas é omitida.
 
  
