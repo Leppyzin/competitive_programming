@@ -48,7 +48,7 @@
    
    ### 2. [Laço While](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/La%C3%A7o%20While/While.md)
 
-   ### 3. [Laço For]()
+   ### 3. [Laço For](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/La%C3%A7o%20For/for.md)
 
    ### 4. [Laço Do-while](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/La%C3%A7o%20Do-while/do-while.md)
 
