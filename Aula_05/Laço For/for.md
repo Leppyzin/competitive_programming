@@ -95,6 +95,7 @@ for(i = 0; i < n; i++){
 }
 ```
 
+
 Encontrar o maior dentre N elementos lidos da entrada
 
 ```
