@@ -50,7 +50,7 @@
 
    ### 3. [Laço For]()
 
-   ### 4. [Laço Do-while]()
+   ### 4. [Laço Do-while](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/La%C3%A7o%20Do-while/do-while.md)
 
    ## Exercícios Resolvidos
 
