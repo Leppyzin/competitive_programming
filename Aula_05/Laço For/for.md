@@ -228,7 +228,7 @@ int main(){
     return 0;
 }
 ```
-### Omitindo uma cláusula do comando ```for```
+## Omitindo uma cláusula do comando ```for```
 
 ### Relembrando a estrutura do ```for```:
 
