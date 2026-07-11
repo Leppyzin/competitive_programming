@@ -1,4 +1,4 @@
-# Vetores
+# Vetores/array
 
   Um vetor, também chamado de *array*, é um tipo de estrutura de dados que permite armazenar e acessar um conjunto de elementos de mesmo tipo usando um índice, representado por um valor inteiro.  
 
