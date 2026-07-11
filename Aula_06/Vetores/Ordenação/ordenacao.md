@@ -64,3 +64,28 @@ int main(){
     return 0;  
 }
 ```
+## Quantidade Mínima de Trocas
+
+ Podemos alterar o código-fonte acima para calcular também a quantidade mínima de trocas (ou quantidade necessária de trocas) para ordenar um vetor de inteiros ```v``` com ```n``` elementos.
+
+ Na versão abaixo, repare que a função ```ordena``` agora retorna um valor inteiro que corresponde à quantidade mínima de trocas, determinada na variável ```trocas```. O algoritmo compara todos os pares ```(i,j)``` com ```j > i``` e sempre que encontra ```v[i] > v[j]```, troca os elementos de lugar e incrementa o contador trocas.
+
+ A função completa está disponível abaixo:
+
+ ```
+int ordena(int v[1000], int n){
+    int i,j,backup,trocas;
+
+    trocas = 0;
+    for(i = 0; i < n-1; i++){
+        for(j = i+1; j < n; j++){
+            if(v[i] > v[j]){
+                backup = v[i];
+                v[i] = v[j];
+                v[j] = backup;
+                trocas++;
+            }
+        }
+    }
+    return trocas;
+}
