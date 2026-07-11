@@ -186,3 +186,5 @@ int v[5] = {0};
 ## Observações
 
 ### Acessar índice indevido
+
+É importante observar
