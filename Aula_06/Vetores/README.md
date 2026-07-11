@@ -9,7 +9,7 @@
 
 ## Tópicos
 
-  1) [Princípios Básicos]
+  1) [Princípios Básicos](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_06/Vetores/Princ%C3%ADpios%20B%C3%A1sicos/definicao.md)
   2) [Operações Básicas e Busca em Vetores]
   3) [Vetores e Funções]
   4) [Ordenação]
