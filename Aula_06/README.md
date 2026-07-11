@@ -15,7 +15,7 @@
      
   3) [Vetores e Funções](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_06/Vetores/Vetores%20e%20Fun%C3%A7%C3%B5es/funcoes.md)
 
-  4) [Ordenação]
+  4) [Ordenação](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_06/Vetores/Ordena%C3%A7%C3%A3o/ordenacao.md)
 
   ## Exercícios Resolvidos
 
