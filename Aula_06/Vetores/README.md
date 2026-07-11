@@ -13,7 +13,7 @@
      
   2) [Operações Básicas e Busca em Vetores](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_06/Vetores/Opera%C3%A7%C3%B5es%20B%C3%A1sicas%20e%20Busca%20em%20Vetores/operacoes.md)
      
-  3) [Vetores e Funções]
+  3) [Vetores e Funções](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_06/Vetores/Vetores%20e%20Fun%C3%A7%C3%B5es/funcoes.md)
 
   4) [Ordenação]
 
