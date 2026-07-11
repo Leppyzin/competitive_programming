@@ -11,7 +11,7 @@
 
   1) [Princípios Básicos](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_06/Vetores/Princ%C3%ADpios%20B%C3%A1sicos/definicao.md)
      
-  2) [Operações Básicas e Busca em Vetores]
+  2) [Operações Básicas e Busca em Vetores](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_06/Vetores/Opera%C3%A7%C3%B5es%20B%C3%A1sicas%20e%20Busca%20em%20Vetores/operacoes.md)
      
   3) [Vetores e Funções]
 
