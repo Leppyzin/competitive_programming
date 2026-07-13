@@ -14,7 +14,7 @@
     
  4) [Biblioteca String.h]()
 
-## Exercícios Resolvidos em Aula
+# Exercícios Resolvidos em Aula
 
 [Beecrowd 2866 - Cryptotext]() [Solução]()
 
