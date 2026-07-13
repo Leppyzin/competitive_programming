@@ -59,3 +59,88 @@
 |           120           |         x         |            88            |          X        |
 |           121           |         y         |            89            |          Y        |
 |           122           |         z         |            90            |          Z        |
+
+
+## Os mais importantes
+
+Aqui segue uma Tabela ASCII resumida dos caracteres mais importantes:
+
+|Código Decimal| Caractere|
+|--------------|----------|
+|      48      |     0    |
+|      57      |     9    |
+|      65      |     A    |
+|      90      |     Z    |
+|      97      |     a    |
+|     122      |     z    |
+
+É importante saber que:
+
+ - Os caracteres numéricos possuem código ASCII no intervalo ```48``` e ```57```;
+ - Os caracteres Maiúsculos possuem código ASCII no intervalo ```65``` e ```90```;
+ - Os caracteres Minúsculos estão no intervalo ```97``` e ```122```.
+
+## Preciso Decorar a Tabela ASCII?  
+
+  Não é necessário decorar a Tabela ASCII! Um código-fonte como esse abaixo já é o suficiente para você obter a Tabela ASCII por completo:
+
+  ```
+#include <stdio.h>
+
+int main(){
+    int i;
+    for(i = 10; i <= 128; i++){
+        printf("Caractere: %c Codigo ASCII: %d\n",i,i);
+    }
+    return 0;
+}
+```
+
+## Operações com Código ASCII
+
+### Converte um caractere numérico para seu correspondente inteiro
+
+  A função abaixo converte um caractere numérico para um dígito do tipo inteiro.
+
+  Por exemplo, o caractere ```'3'``` é convertido para o inteiro 3. O código ASCII do caractere `````` é *51*. Tomamos o caractere ```'0'```, cujo código ASCII é *48*, como base para essa operação. Então:
+```
+'3' - '0' = 51 - 48 = 3
+```
+
+  A função abaixo realiza essa operação:
+
+  ```
+int char2int(){
+    int ascii;
+    ascii = c - 48;
+    return ascii;
+}
+```
+### Converte um dígito inteiro para caractere
+
+ A função abaixo converte um dígito do inteiro (entre 0 e 9).
+
+Por exemplo, o dígito inteiro *4* será convertido para o caractere ```'4'```. O objetivo é obter o código ASCII do caractere ```'4'```, que é *52*. Sabendo-se que o caractere ```'0'``` possui código ASCII igual a *48*, podemos somar:
+
+```48 + 4 = 52```
+
+  A função fica assim:
+  
+  ```
+chat int2char(int num){
+    char c;
+    c = num + 48;
+    return c;
+}
+
+```
+
+### Verifica se um caractere é minúsculo
+
+ Basta verificar se o código ASCII do caractere ```'c'``` está no intervalo ```[97,122]```, como vimos na tabela dos caracteres minúsculos acima.
+
+ A função fica então:
+
+```
+
+```
