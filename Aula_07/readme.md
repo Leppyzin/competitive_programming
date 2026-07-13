@@ -16,16 +16,16 @@
 
 # Exercícios Resolvidos em Aula
 
-[Beecrowd 2866 - Cryptotext]() [Solução]()
+[Beecrowd 2866 - Cryptotext]() - [Solução]()
 
 
 
-[Beecrowd 1253 - Caesar Chiper]() [Solução]()
+[Beecrowd 1253 - Caesar Chiper]() - [Solução]()
 
 
 
-[Beecrowd 1234 - Dancing Sentence]() [Solução]() [Solução alternativa]()
+[Beecrowd 1234 - Dancing Sentence]() - [Solução]() [Solução alternativa]()
 
 
 
-[Beecrowd 1607 - Avance as Letras]() [Solução]()
+[Beecrowd 1607 - Avance as Letras]() - [Solução]()
