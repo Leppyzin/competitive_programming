@@ -6,14 +6,23 @@
   ![strings](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/strings.png)
 
 
-  1) [Representando e lendo Strings]()
-  2) [Tabela ASCII]()
-  3) [Operações com strings]()
-  4) [Biblioteca String.h]()
+  ### 1) [Representando e lendo Strings]()
+  ### 2) [Tabela ASCII]()
+  ### 3) [Operações com strings]()
+  ### 4) [Biblioteca String.h]()
 
 ## Exercícios Resolvidos em Aula
 
-### [Beecrowd 2866 - Cryptotext]() [Solução]()
-### [Beecrowd 1253 - Caesar Chiper]() [Solução]()
-### [Beecrowd 1234 - Dancing Sentence]() [Solução]() [Solução alternativa]()
-### [Beecrowd 1607 - Avance as Letras]() [Solução]()
+[Beecrowd 2866 - Cryptotext]() [Solução]()
+
+
+
+[Beecrowd 1253 - Caesar Chiper]() [Solução]()
+
+
+
+[Beecrowd 1234 - Dancing Sentence]() [Solução]() [Solução alternativa]()
+
+
+
+[Beecrowd 1607 - Avance as Letras]() [Solução]()
