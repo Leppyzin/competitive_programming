@@ -172,7 +172,7 @@ int ehMaiusculo(char c){
 
  Nesse caso, devemos verificar se o código ASCII de um caractere ```c``` está no intervalo ```[48,57]```:
 
- ```
+```
 int ehDigitoNum(){
     if(c >= 48 && c <= 57){
         return 1;
