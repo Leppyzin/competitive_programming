@@ -10,7 +10,7 @@
     
  2) [Tabela ASCII](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_07/Tabela%20ASCII/Tabela.md)
 
- 3) [Operações com strings]()
+ 3) [Operações com strings](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_07/Opera%C3%A7%C3%B5es%20com%20strings/operacoes.md)
     
  4) [Biblioteca String.h]()
 
