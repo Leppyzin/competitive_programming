@@ -9,7 +9,7 @@
   1) [Representando e lendo Strings]()
   2) [Tabela ASCII]()
   3) [Operações com strings]()
-  4) [Biblioteca String.h]
+  4) [Biblioteca String.h]()
 
 ## Exercícios Resolvidos em Aula
 
