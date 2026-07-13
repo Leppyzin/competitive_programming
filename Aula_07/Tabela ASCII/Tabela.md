@@ -102,7 +102,7 @@ int main(){
 
   A função abaixo converte um caractere numérico para um dígito do tipo inteiro.
 
-  Por exemplo, o caractere ```'3'``` é convertido para o inteiro 3. O código ASCII do caractere `````` é *51*. Tomamos o caractere ```'0'```, cujo código ASCII é *48*, como base para essa operação. Então:
+  Por exemplo, o caractere ```'3'``` é convertido para o inteiro 3. O código ASCII do caractere ```'3'``` é *51*. Tomamos o caractere ```'0'```, cujo código ASCII é *48*, como base para essa operação. Então:
 ```
 '3' - '0' = 51 - 48 = 3
 ```
@@ -142,5 +142,42 @@ chat int2char(int num){
  A função fica então:
 
 ```
+  int ehMinusculo(char c){
+      if(c >= 97 && c <= 122){
+          return 1;
+      } else {
+          return 0;
+      }
 
+  }
+```
+
+### Verifica se um caractere é maiúsculo
+
+  Nesse caso, devemos verificar se o código ASCII do caractere ```c``` está no intervalo ```[65,90]```, como vimos na tabela dos caracteres maiúsculos acima.
+
+  A função fica então:
+
+  ```
+int ehMaiusculo(char c){
+    if(c >= 65 && c <= 90){
+        return 1;
+    } else {
+        return 0;
+    }
+}
+```
+
+### Verifica se um caractere é um dígito númerico
+
+ Nesse caso, devemos verificar se o código ASCII de um caractere ```c``` está no intervalo ```[48,57]```:
+
+ ```
+int ehDigitoNum(){
+    if(c >= 48 && c <= 57){
+        return 1;
+    } else {
+        return 0;
+    }
+}
 ```
