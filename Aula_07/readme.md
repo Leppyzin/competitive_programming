@@ -12,7 +12,7 @@
 
  3) [Operações com strings](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_07/Opera%C3%A7%C3%B5es%20com%20strings/operacoes.md)
     
- 4) [Biblioteca String.h]()
+ 4) [Biblioteca String.h](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_07/Biblioteca%20String/b_string.md)
 
 # Exercícios Resolvidos em Aula
 
