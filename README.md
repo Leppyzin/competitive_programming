@@ -47,5 +47,5 @@ Lucas Modesto.
   ### 4 - [Estrutura Condicional](https://github.com/Leppyzin/Programacao_Competitiva/tree/main/Aula_03)
   ### 5 - [Funções](https://github.com/Leppyzin/Programacao_Competitiva/tree/main/Aula_04)
   ### 6 - [Estrutura de Repetição](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/README.md)
-  ### 7 - [array](https://github.com/Leppyzin/competitive_programming/tree/main/Aula_06)
+  ### 7 - [Array](https://github.com/Leppyzin/competitive_programming/tree/main/Aula_06)
   ### 8 - [Strings](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_07/readme.md)
