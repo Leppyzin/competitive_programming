@@ -7,7 +7,7 @@ Uma estrutura condicional em Linguagem C permite ao algoritmo a tomada de decis�
 
    Observe que na imagem acima uma condição sempre retorna 2 parâmetros, ou um valor verdadeiro ou um falso. A ideia é justamente produzir um programa que segue um fluxo de comandos específico, expressões e instruções para cada um desses casos, sendo o caso verdadeiro sempre obrigatório.
 
-   ![Estrutura Condicional 2](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/Estrutura_condicional.png?raw=true)
+   ![Estrutura Condicional 2](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/estrutura_condicional2.png)
 
    Isso é muito parecido com o que ocorre em um fluxograma, em que o símbolo do losango permite escolher entre diferentes caminhos com base em uma condição do tipo verdadeiro/falso.
 
