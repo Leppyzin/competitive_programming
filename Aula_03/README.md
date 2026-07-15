@@ -3,7 +3,7 @@
 Uma estrutura condicional em Linguagem C permite ao algoritmo a tomada de decisões, isto é, a execução de comandos, expressões e intruções que satisfazem uma condição determinada. Os programas escritos até o momento foram comandos sequenciais: um comando é executado após o outro, do começo ao fim do programa, na ordem em que foram declarados no código-fonte. **Nenhum comando é ignorado.** Entretanto, há casos em que é preciso que um bloco de comandos seja executado somente se determinada condição for verdadeira. Para isso, precisamos de uma estrutura de seleção ou um comando de controle condicional que permita selecionar o conjunto de comandos a ser executado. Especificamente, o algoritmo executa um bloco de comandos, expressões e instruções quando uma condição especificada for verdadeira e, opcionalmente, um outro bloco de código distinto se a condição for falsa.
 
  
-   ![Estrutura Condicional](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/ifelse_flowchart.png?raw=true)
+   ![Estrutura Condicional](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/estruturacondicional.png)
 
    Observe que na imagem acima uma condição sempre retorna 2 parâmetros, ou um valor verdadeiro ou um falso. A ideia é justamente produzir um programa que segue um fluxo de comandos específico, expressões e instruções para cada um desses casos, sendo o caso verdadeiro sempre obrigatório.
 
