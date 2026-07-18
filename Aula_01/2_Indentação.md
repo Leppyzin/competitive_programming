@@ -10,10 +10,8 @@
 
  ## Exemplo sem indentação
 
- ```
-#include <stdio.h>
-int main(){printf("Hello World\n");return 0;}
- ```
+ ![exemploseminde](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/exemplonoident.png)
+
  Como você pôde notar a compreensão do código fica um pouco difícil, isso porque é um código **totalmente simples**
 
 ## Exemplo com indentação
