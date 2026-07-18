@@ -5,7 +5,7 @@
 **A Indentação torna a leitura do código-fonte muito mais fácil e facilita a sua modificação.**
 ## O que é Indentação??
 
- Indentação é o espaçamento (ou tabulação) colocado antes de começar a escrever o código na linha. Ela tem como objetivo indicar a hieraquia dos elementos. **O ideal é sempre criar um novo nível de indentação para um novo bloco de comandos**
+ Indentação é o espaçamento (ou tabulação) colocado antes de começar a escrever o código na linha. Ela tem como objetivo indicar a hieraquia dos elementos. **O ideal é sempre criar um novo nível de indentação para um novo bloco de comandos**.
  A Indentação é super importante para facilitar a leitura do código-fonte
 
  ## Exemplo sem indentação
