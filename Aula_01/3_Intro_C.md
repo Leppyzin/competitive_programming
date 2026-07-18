@@ -1,6 +1,6 @@
 # Estrutura Básica
 
-Na linguagem C todo programa que é iníciado tem uma Estrutura Básica que é onde o nosso programa vai rodar o seu programa. Nas linguagens de programação em sua maioria terão um esqueleto base para iniciar um programa.
+Na linguagem C todo programa que é iníciado tem uma Estrutura Básica que é onde o nosso programa vai rodar o seu programa. Nas linguagens de programação sua maioria terá um esqueleto base para iniciar um programa.
 
 ## Estrutura básica do C
 
