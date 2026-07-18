@@ -16,15 +16,6 @@
 
 ## Exemplo com indentação
 
- ```
-#include <stdio.h>
-
-int main(){
-
-    printf("Hello World\n");
-
-    return 0;
-}
-```
+ ![exemplocominde](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/exemplocominde.png)
 
 *Observe que a diferença se torna brutal.* Se tornou um código muito mais simples e de facil compreensão.
