@@ -4,7 +4,14 @@ Na linguagem C todo programa que é iníciado tem uma Estrutura Básica que é o
 
 ## Estrutura básica do C
 
-![estruturabas](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/estruturabasica.png)
+```
+#include <stdio.h>
+
+int main(){
+
+    return 0;
+}
+```
 
 Você deve está pensando; "mas o que diabos é isso?". Calma pupilo, irei explicar cada pedaço para você.
 
