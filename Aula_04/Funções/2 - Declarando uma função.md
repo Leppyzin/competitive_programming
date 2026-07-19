@@ -82,5 +82,5 @@ int Square (int a){
 
   **No exemplo a seguir é possível ter uma boa representação de como uma chamada de função ocorre.**
 
- ![chamada da função](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/chamadadafun%C3%A7ao.png)
+ ![chamada da função](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/func3.png)
  
