@@ -175,7 +175,7 @@ Depois, o comando ```scanf("%d",&a);``` espera que o usuário digite algum valor
 
 Em seguida, existe a chamada da função ```sucessor(a);```. O valor armazenado em ```a``` é copiado para a variável ```x``` da função ```sucessor```, denotando uma **passagem pro valor,** já que essas variáveis são inteiras:
 
-![passagem_valor3](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/endere%C3%A7o3.png)
+![passagem_valor3](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/endere%C3%A7o3.1.png)
 
 No interior da função ```sucessor```, ocorre então a operação ```x = x+1;```, resultando no valor 4:
 
