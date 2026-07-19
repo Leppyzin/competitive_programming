@@ -167,7 +167,7 @@ Ops! Não era para imprimir 4, que é o sucessor natural de 3? Pois é... Veja o
 
 Quando o programa começa a rodar, as variáveis têm seus espaços na memória alocados:
 
-![passagem_valor](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/passagem_valor_01.png)
+![passagem_valor](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/endere%C3%A7o1.png)
 
 Depois, o comando ```scanf("%d",&a);``` espera que o usuário digite algum valor inteiro. Suponha que o usuário digite 3. Esse valor será armazenado na variável ```a```:
 
