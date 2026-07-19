@@ -179,8 +179,8 @@ Em seguida, existe a chamada da função ```sucessor(a);```. O valor armazenado 
 
 No interior da função ```sucessor```, ocorre então a operação ```x = x+1;```, resultando no valor 4:
 
-![passagem_valor4](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/endere%C3%A7o4.png)
+![passagem_valor4](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/endere%C3%A7o3.png)
 
 Quando a função ```sucessor``` termina, todas as operações feitas em seu interior são perdidas, incluindo o valor da variável ```x```. Repare que o valor da variável ```a``` está inaleterado.
 
-![passagem_valor5](https://github.com/Leppyzin/Programacao_Competitiva/blob/main/Arquivos_img/passagem_valor_05.png)
+![passagem_valor5](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/endere%C3%A7o4.png)
