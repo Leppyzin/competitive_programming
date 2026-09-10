@@ -277,3 +277,5 @@ int main(){
 ```
 
 **Importante: EOF é uma palavra reservada!!!** Não pode utilizá-la para servir como nome de variáveis e funções.
+
+**para finalizar a leitura:** Para finalizar a leitura ou indicar o fim de um arquivo (**EOF - End Of File**) no prompt de comando do WINDOWS DURANTE A EXECUÇÃO DE UM PROGRAMA. Basta utilizar o atalho do teclado ```cntrl + z``` e, em seguida, pressionar ```Enter```.
