@@ -49,3 +49,4 @@ Lucas Modesto.
   ### 6 - [Estrutura de Repetição](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/README.md)
   ### 7 - [Array](https://github.com/Leppyzin/competitive_programming/tree/main/Aula_06)
   ### 8 - [Strings](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_07/readme.md)
+  ### 9 - [Matrizes]()
