@@ -54,7 +54,7 @@
 
    ## Exercícios Resolvidos
 
-   ### 6.4. (While) [Beecrowd 1585 - Making Kites][Solucão]
+   ### 6.4. (While) [Beecrowd 1585 - Making Kites]()[Solucão]()
 
    ### 6.5. (While) [Beecrowd 1247 - Coast Guard][Solucão]
 
