@@ -6,3 +6,7 @@ linhas por ```m``` colunas como mostra a figura abaixo:
  ![img_matriz](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/Matrizes_02.png)
 
    Da mesma maneira do que nos Vetores, os índices nas matrizes começam no inteiro ```0```. Assim, cada posição ```a[i][j]``` (ou célula) da Matriz é acessada considerando os índices de linha ```i (0 <= i < n)``` e de coluna ```j(0 <= j < m)```.
+
+   Outros tipos de matrizes podem apresentar várias dimensões, como é o caso de uma imagem colorida representada pelo modelo de cor RGB (Red-Green-Blue). Nesse caso, cada posição ```a[i][j]``` terá uma profundidade ```3```, associada a cada um dos canais de cores.
+
+   
