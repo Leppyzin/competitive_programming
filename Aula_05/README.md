@@ -56,6 +56,11 @@
 
    ### 6.4. (While) [Beecrowd 1585 - Making Kites][Solucão]
 
+   ### 6.5. (While) [Beecrowd 1247 - Coast Guard][Solucão]
+
+   ### 6.6. (While) [Beecrowd 3214 - Refrigerante][Solucão]
+
+   ### 6.7. (While-For) [Beecrowd 2297 - Bafo][Solucão While][Solucão For]
    
  
   
