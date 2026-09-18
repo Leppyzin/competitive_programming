@@ -9,4 +9,11 @@ linhas por ```m``` colunas como mostra a figura abaixo:
 
    Outros tipos de matrizes podem apresentar várias dimensões, como é o caso de uma imagem colorida representada pelo modelo de cor RGB (Red-Green-Blue). Nesse caso, cada posição ```a[i][j]``` terá uma profundidade ```3```, associada a cada um dos canais de cores.
 
+  ![matrix](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/rgb_image.jpg)
+
+  Dentro disso conseguimos entrar em um conceito chamado "Lógica Computacional por meio do Raciocínio Geométrico", onde nós aprendemos a manipular melhor cada matriz e seus respectivos dados.
+
+  
+
+  
    
