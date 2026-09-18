@@ -58,11 +58,11 @@
 
    ### 6.5. (While) [Beecrowd 1247 - Coast Guard]()[Solucão]()
 
-   ### 6.6. (While) [Beecrowd 3214 - Refrigerante][Solucão]
+   ### 6.6. (While) [Beecrowd 3214 - Refrigerante]()[Solucão]()
 
-   ### 6.7. (While-For) [Beecrowd 2297 - Bafo][Solucão While][Solucão For]
+   ### 6.7. (While-For) [Beecrowd 2297 - Bafo]()[Solucão While]()[Solucão For]()
    
-   ### 6.8. (For) [Beecrowd 3058 - Supermercado][Solucão]
+   ### 6.8. (For) [Beecrowd 3058 - Supermercado]()[Solucão]()
 
    ### 6.9. (For) [Beecrowd 1366 - Sticks Game][Solucão]
 
