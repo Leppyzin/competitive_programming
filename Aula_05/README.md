@@ -64,7 +64,7 @@
    
    ### 6.8. (For) [Beecrowd 3058 - Supermercado][Solucão]
 
-   
+   ### 6.9. (For) [Beecrowd 1366 - Sticks Game][Solucão]
   
 
   
