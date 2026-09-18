@@ -65,7 +65,8 @@
    ### 6.8. (For) [Beecrowd 3058 - Supermercado][Solucão]
 
    ### 6.9. (For) [Beecrowd 1366 - Sticks Game][Solucão]
-  
+
+   ### 6.10. (Do-While) [Beecrowd 1131 - Grenais][Solucão]
 
   
 
