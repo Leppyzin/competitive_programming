@@ -54,6 +54,8 @@
 
    ## Exercícios Resolvidos
 
+   ### 6.4. (While) [Beecrowd 1585 - Making Kites][Solucão]
+
    
  
   
