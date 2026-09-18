@@ -62,7 +62,9 @@
 
    ### 6.7. (While-For) [Beecrowd 2297 - Bafo][Solucão While][Solucão For]
    
- 
+   ### 6.8. (For) [Beecrowd 3058 - Supermercado][Solucão]
+
+   
   
 
   
