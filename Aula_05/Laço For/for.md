@@ -273,11 +273,11 @@ int main(){
 
   Nesse exemplo, utilizamos uma variável do tipo **char** para controle de laço. Essa variável se inicia com o caractere letra "A" e o laço é executado até que a variável do laço possua como valor o caractere "Z".
 
-## Alinhamento de Repeti
+## Aninhamento de Repetições
 
-  Como nós já vimos anteriormente, existe o alinhamento de IFs, Cujo o intuito é justamente deixar o código de uma maneira mais legível. Da mesma forma acontece com For na linguagem C.
+  Como nós já vimos anteriormente, existe o alinhamento de IFs, Cujo o intuito é justamente deixar o código de uma maneira mais legível. Da mesma forma acontece com For/while/do-while na linguagem C.
 
-  Basicamente um For vai corresponder a um For e esse For pertence a outro For e por aí vai. Por enquanto nós, vamos estruturar melhor esse conceito inicial de Alinhamento de For.
+  Uma repetição aninhada é simplesmente um comando de repetição utilizado dentro do bloco de comandos de um outro, semelhante ao que é feito com o comando **if**.
 
-  
+  A forma geral de um comando de repetição aninhado é:
  
