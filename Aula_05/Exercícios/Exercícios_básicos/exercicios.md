@@ -8,4 +8,4 @@
  - Faça um programa que mostre uma contagem regressiva na tela, iniciando em 10 e terminando em 0. Mostre uma mensagem "FIM!" Após a contagem.
  - Elabore um programa que peça ao usuário para digitar 10 valores. Some esses valores e apresente o resultado na tela.
  - Faça um programa que leia 10 inteiros e imprima a sua média.
- - 
+ - Escreva um programa que leia 10 números e escreva o menor valor lido e o maior valor lido. 
