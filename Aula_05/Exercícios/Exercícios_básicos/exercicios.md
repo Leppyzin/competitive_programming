@@ -9,3 +9,4 @@
  - Elabore um programa que peça ao usuário para digitar 10 valores. Some esses valores e apresente o resultado na tela.
  - Faça um programa que leia 10 inteiros e imprima a sua média.
  - Escreva um programa que leia 10 números e escreva o menor valor lido e o maior valor lido. 
+ - Faça um programa que leia 10 inteiros positivo, ignorando não positivos, e imprima sua média.
