@@ -232,4 +232,8 @@ int main(){
 ## Alinhamento de For
 
   Como nós já vimos anteriormente, existe o alinhamento de IFs, Cujo o intuito é justamente deixar o código de uma maneira mais legível. Da mesma forma acontece com For na linguagem C.
+
+  Basicamente um For vai corresponder a um For e esse For pertence a outro For e por aí vai. Por enquanto nós, vamos estruturar melhor esse conceito inicial de Alinhamento de For.
+
+  
  
