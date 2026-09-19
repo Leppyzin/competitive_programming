@@ -6,4 +6,4 @@
  - Faça um programa que determine e mostre os cinco primeiros múltiplos de 3 considerando números maiores que 0.
  - Faça um programa que calcule e mostre a soma dos 50 primeiros números pares.
  - Faça um programa que mostre uma contagem regressiva na tela, iniciando em 10 e terminando em 0. Mostre uma mensagem "FIM!" Após a contagem.
- - 
+ - Elabore um programa que peça ao usuário para digitar 10 valores. Some esses valores e apresente o resultado na tela.
