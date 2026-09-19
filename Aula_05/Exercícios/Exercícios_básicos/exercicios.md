@@ -1,3 +1,9 @@
 # lista de exercícios para se adaptar ao laço de repetição
 
- - Faça 
+ - Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de 0 até N em ordem crescente.
+ - Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de 0 até N em ordem decrescente.
+ - Faça um programa que leia um número inteiro N e depois imprima os N primeiros números naturais ímpares.
+ - Faça um programa que determine e mostre os cinco primeiros múltiplos de 3 considerando números maiores que 0.
+ - Faça um programa que calcule e mostre a soma dos 50 primeiros números pares.
+ - Faça um programa que mostre uma contagem regressiva na tela, iniciando em 10 e terminando em 0. Mostre uma mensagem "FIM!" Após a contagem.
+ - 
