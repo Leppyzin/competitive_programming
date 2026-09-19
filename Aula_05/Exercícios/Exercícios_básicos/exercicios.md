@@ -7,3 +7,5 @@
  - Faça um programa que calcule e mostre a soma dos 50 primeiros números pares.
  - Faça um programa que mostre uma contagem regressiva na tela, iniciando em 10 e terminando em 0. Mostre uma mensagem "FIM!" Após a contagem.
  - Elabore um programa que peça ao usuário para digitar 10 valores. Some esses valores e apresente o resultado na tela.
+ - Faça um programa que leia 10 inteiros e imprima a sua média.
+ - 
