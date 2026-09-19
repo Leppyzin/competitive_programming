@@ -22,6 +22,6 @@
 
    ![Harmonico](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/Harmonico2.png)
 
- Apresente um programa que calcule o valor de qualquer Hn.
+  - **Então:** Apresente um programa que calcule o valor de qualquer Hn.
 
      
