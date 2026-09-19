@@ -20,4 +20,8 @@
 
  - Em matemática, o número harmônico designado por Hn define-se como o enésimo termo da série harmônica. Ou seja:
 
+   ![Harmonico](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/Harmonico2.png)
+
+
+
      
