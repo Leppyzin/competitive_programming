@@ -229,4 +229,7 @@ int main(){
 }
 ```
 
+## Alinhamento de For
+
+  Como nós já vimos anteriormente, existe o alinhamento de IFs, Cujo o intuito é justamente deixar o código de uma maneira mais legível. Da mesma forma acontece com For na linguagem C.
  
