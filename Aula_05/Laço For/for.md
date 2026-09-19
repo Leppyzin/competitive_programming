@@ -231,7 +231,49 @@ int main(){
 
 ## Usando o Operador ',' no comando For
 
-## Alinhamento de For
+  Na linguagem C o operador ',' é um separador de comandos. Ele permite determinar uma lista de expressões que devem ser executadas sequencialmente, inclusive dentro do comando **for**.
+
+  Como no exemplo abaixo:
+  
+  ```
+  #include <stdio.h>
+
+  int main(){
+
+     int i,j;
+
+     for(i = 0, j = 100; i < j; i++,j--){
+        printf("i = %d e j = %d \n",i,j);
+     }
+
+     return 0;
+  }
+  ```
+
+  Nesse código anterior, foram definidos dois comandos para a cláusula de inicialização: i = 0 e j = 100. Cada comando na inicialização é separado pelo operador de vírgula (,). A cláusula de inicialização só termina quando o operador de ponto e vírgula (;) é encontrado. Na fase de incremento, novamente, o valor das duas variáveis é modificado: o valor de *i* é incrementado (i++), enquanto o de *j* é decrementado (j--). Novamente, cada comando na cláusula de incremento é separado pelo operador (,).
+
+  ### ATENÇÃO!
+
+   A variável utilizada no laço **for** não precisa ser necessariamente do tipo **int**. Podemos, por exemplo, usar uma variável do tipo **char** para imprimir uma sequência de caracteres.
+
+   ```
+   #include <stdio.h>
+
+   int main(){
+   char c;
+
+   for (c = 'A'; c <= 'Z'; c++){
+        printf("Letra = %c\n",c);
+   }
+
+      return 0;
+   }
+
+   ```
+
+  Nesse exemplo, utilizamos uma variável do tipo **char** para controle de laço. Essa variável se inicia com o caractere letra "A" e o laço é executado até que a variável do laço possua como valor o caractere "Z".
+
+## Alinhamento de Repeti
 
   Como nós já vimos anteriormente, existe o alinhamento de IFs, Cujo o intuito é justamente deixar o código de uma maneira mais legível. Da mesma forma acontece com For na linguagem C.
 
