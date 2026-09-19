@@ -10,3 +10,4 @@
  - Faça um programa que leia 10 inteiros e imprima a sua média.
  - Escreva um programa que leia 10 números e escreva o menor valor lido e o maior valor lido. 
  - Faça um programa que leia 10 inteiros positivo, ignorando não positivos, e imprima sua média.
+ - Faça um algoritmo que leia um número positivo e imprima seus divisores. Exemplo: Os divisores do número 66 são: 1,2,3,6,11,22,33 e 66.
