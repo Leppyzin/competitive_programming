@@ -280,4 +280,42 @@ int main(){
   Uma repetição aninhada é simplesmente um comando de repetição utilizado dentro do bloco de comandos de um outro, semelhante ao que é feito com o comando **if**.
 
   A forma geral de um comando de repetição aninhado é:
+
+  ```
+   repeticao(condicao){
+      sequencia de comandos;
+      repeticao(condicao2){
+            sequencia de comandos;
+            repeticao...
+      }
+  }
  
+```
+
+em que **repetição** representa um dos três possíveis comandos de repetição da linguagem C: **while, for e do-while**.
+
+ Em um aninhamento de repetições, o programa começa a testar as condições começando pela **condição 1** da primeira repetição. Se o resultado dessa condição for diferente de zero (verdadeiro), o programa executará o bloco de comando associados a ela, aí incluído o segundo comando de repetição. Note que os comandos da segunda repetição só serão executados se a condição da primeira for cumprida. Esse processo se repete para cada comando de repetição que o programa encontrar dentro do bloco de comando que ele executar.
+ O aninhamento de comandos de repetição é muito útil quando se tem de percorrer dois conjuntos de valores que estão relacionados dentro de um programa. 
+
+ ### Exemplo de uso
+
+  Para imprimir uma Matriz identidade (composta de apenas 1s e 0s na diagonal principal) de tamanho 4x4 é preciso percorrer as quatro linhas da Matriz e, para cada linha, percorrer as suas quatro colunas. Um único comando de repetição não é o suficiente para realizar essa tarefa.
+
+  ```
+#include <stdio.h>
+
+int main(){
+    int i,j;
+    for (i = 1;i<5;i++){
+        for(j = 1; j<5; j++){
+            if(i == j){
+                printf("1 \n");
+            } else {
+                printf("0 \n");
+            }
+        }
+    }
+
+    return 0; 
+}
+```
