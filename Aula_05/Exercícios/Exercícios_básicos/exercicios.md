@@ -26,7 +26,7 @@
   - Escreva um programa que leia um número inteiro positivo N e em seguida imprima N linhas do chamado triângulo de Floyd:
 
    ----------- 
-           ![triangulofloyd](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/images.jpg)
+   =  ![triangulofloyd](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/images.jpg)
 
     
 
