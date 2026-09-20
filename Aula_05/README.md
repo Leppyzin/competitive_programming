@@ -56,9 +56,9 @@
 
    #### 6.1 - (While) [Beecrowd 1585 - Making Kites](https://judge.beecrowd.com/pt/problems/view/1585) - [Solucão]()
 
-   #### 6.2 - (While) [Beecrowd 1247 - Coast Guard]() - [Solucão]()
+   #### 6.2 - (While) [Beecrowd 1247 - Coast Guard](https://judge.beecrowd.com/pt/problems/view/1247) - [Solucão]()
 
-   #### 6.3 - (While) [Beecrowd 3214 - Refrigerante]() - [Solucão]()
+   #### 6.3 - (While) [Beecrowd 3214 - Refrigerante](https://judge.beecrowd.com/pt/problems/view/3214) - [Solucão]()
 
    #### 6.4 - (While-For) [Beecrowd 2297 - Bafo]() - [Solucão While]() - [Solucão For]()
    
