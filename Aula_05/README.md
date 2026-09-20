@@ -66,7 +66,7 @@
 
    #### 6.6 - (For) [Beecrowd 1366 - Sticks Game](https://judge.beecrowd.com/pt/problems/view/1366) - [Solucão]()
 
-   #### 6.7 - (Do-While) [Beecrowd 1131 - Grenais]() - [Solucão]()
+   #### 6.7 - (Do-While) [Beecrowd 1131 - Grenais](https://judge.beecrowd.com/pt/problems/view/1131) - [Solucão]()
 
   
 
