@@ -27,7 +27,9 @@
 
    ----------- 
    ![triangulofloyd](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/images.jpg)
+   ----------- 
 
+  - Faça um programa que receba um número inteiro maior do que 1 e verifique se o número fornecido é primo ou não
     
 
      
