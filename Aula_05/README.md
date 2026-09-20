@@ -54,19 +54,19 @@
 
    ## Exercícios Resolvidos
 
-   #### 6.1 - (While) [Beecrowd 1585 - Making Kites](https://judge.beecrowd.com/pt/problems/view/1585) [Solucão]()
+   #### 6.1 - (While) [Beecrowd 1585 - Making Kites](https://judge.beecrowd.com/pt/problems/view/1585) - [Solucão]()
 
-   #### 6.2 - (While) [Beecrowd 1247 - Coast Guard]() [Solucão]()
+   #### 6.2 - (While) [Beecrowd 1247 - Coast Guard]() - [Solucão]()
 
-   #### 6.3 - (While) [Beecrowd 3214 - Refrigerante]() [Solucão]()
+   #### 6.3 - (While) [Beecrowd 3214 - Refrigerante]() - [Solucão]()
 
-   #### 6.4 - (While-For) [Beecrowd 2297 - Bafo]() [Solucão While]() [Solucão For]()
+   #### 6.4 - (While-For) [Beecrowd 2297 - Bafo]() - [Solucão While]() - [Solucão For]()
    
-   #### 6.5 - (For) [Beecrowd 3058 - Supermercado]() [Solucão]()
+   #### 6.5 - (For) [Beecrowd 3058 - Supermercado]() - [Solucão]()
 
-   #### 6.6 - (For) [Beecrowd 1366 - Sticks Game]() [Solucão]()
+   #### 6.6 - (For) [Beecrowd 1366 - Sticks Game]() - [Solucão]()
 
-   #### 6.7 - (Do-While) [Beecrowd 1131 - Grenais]() [Solucão]()
+   #### 6.7 - (Do-While) [Beecrowd 1131 - Grenais]() - [Solucão]()
 
   
 
