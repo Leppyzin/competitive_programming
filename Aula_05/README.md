@@ -60,11 +60,11 @@
 
    #### 6.3 - (While) [Beecrowd 3214 - Refrigerante](https://judge.beecrowd.com/pt/problems/view/3214) - [Solucão]()
 
-   #### 6.4 - (While-For) [Beecrowd 2297 - Bafo]() - [Solucão While]() - [Solucão For]()
+   #### 6.4 - (While-For) [Beecrowd 2297 - Bafo](https://judge.beecrowd.com/pt/problems/view/2297) - [Solucão While]() - [Solucão For]()
    
-   #### 6.5 - (For) [Beecrowd 3058 - Supermercado]() - [Solucão]()
+   #### 6.5 - (For) [Beecrowd 3058 - Supermercado](https://judge.beecrowd.com/pt/problems/view/3058) - [Solucão]()
 
-   #### 6.6 - (For) [Beecrowd 1366 - Sticks Game]() - [Solucão]()
+   #### 6.6 - (For) [Beecrowd 1366 - Sticks Game](https://judge.beecrowd.com/pt/problems/view/1366) - [Solucão]()
 
    #### 6.7 - (Do-While) [Beecrowd 1131 - Grenais]() - [Solucão]()
 
