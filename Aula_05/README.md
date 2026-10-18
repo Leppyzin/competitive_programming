@@ -64,7 +64,7 @@
    
    #### 6.5 - (For) [Beecrowd 3058 - Supermercado](https://judge.beecrowd.com/pt/problems/view/3058) - [Solucão]()
 
-   #### 6.6 - (For) [Beecrowd 1366 - Sticks Game](https://judge.beecrowd.com/pt/problems/view/1366) - [Solucão]()
+   #### 6.6 - (For) [Beecrowd 1366 - Sticks Game](https://judge.beecrowd.com/pt/problems/view/1366) - [Solucão](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/Exerc%C3%ADcios/beecrowd_1366.c)
 
    #### 6.7 - (Do-While) [Beecrowd 1131 - Grenais](https://judge.beecrowd.com/pt/problems/view/1131) - [Solucão]()
 
