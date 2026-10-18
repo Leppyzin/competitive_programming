@@ -54,7 +54,7 @@
 
    ## Exercícios Resolvidos
 
-   #### 6.1 - (While) [Beecrowd 1585 - Making Kites](https://judge.beecrowd.com/pt/problems/view/1585) - [Solucão]()
+   #### 6.1 - (While) [Beecrowd 1585 - Making Kites](https://judge.beecrowd.com/pt/problems/view/1585) - [Solucão](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/Exerc%C3%ADcios/Beecrowd_1585.c)
 
    #### 6.2 - (While) [Beecrowd 1247 - Coast Guard](https://judge.beecrowd.com/pt/problems/view/1247) - [Solucão]()
 
