@@ -60,7 +60,7 @@
 
    #### 6.3 - (While) [Beecrowd 3214 - Refrigerante](https://judge.beecrowd.com/pt/problems/view/3214) - [Solucão]()
 
-   #### 6.4 - (While-For) [Beecrowd 2297 - Bafo](https://judge.beecrowd.com/pt/problems/view/2297) - [Solucão While]() - [Solucão For]()
+   #### 6.4 - (While-For) [Beecrowd 2297 - Bafo](https://judge.beecrowd.com/pt/problems/view/2297) - [Solucão For](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_05/Exerc%C3%ADcios/Beecrowd_2297.c)
    
    #### 6.5 - (For) [Beecrowd 3058 - Supermercado](https://judge.beecrowd.com/pt/problems/view/3058) - [Solucão]()
 
