@@ -11,9 +11,9 @@ int main(){
             scanf("%d",&ri);
             
             if(ri == 1){
-                john = john+1;
+                john = john + 1; // john += 1;
             } else {
-                mary = mary+1;
+                mary = mary + 1; // mary += 1;
             }
         }
         printf("Mary won %d times and John won %d times\n",mary,john);
