@@ -19,7 +19,7 @@
 
   ## Exercícios Resolvidos
 
-   - Beecrowd 1318 - Fake Tickets [Resolução] [Solução]
+   - Beecrowd 1318 - Fake Tickets [solução](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_06/exerc%C3%ADcios/1318.c)
 
   ## Exercícios Resolvidos em Aula
 
