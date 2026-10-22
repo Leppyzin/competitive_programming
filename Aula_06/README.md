@@ -23,6 +23,6 @@
 
   ## Exercícios Resolvidos em Aula
 
-   - Beecrowd 1245 - Lost Boots [Resolução] [Solução]
+   - Beecrowd 1245 - Lost Boots [Solução]
    - Beecrowd 1375 - Pole Position [Solução]
    - Beecrowd 1410 - He is Offside! [Solução]
