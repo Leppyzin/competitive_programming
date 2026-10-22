@@ -23,6 +23,6 @@
 
   ## Exercícios Resolvidos em Aula
 
-   - Beecrowd 1245 - Lost Boots [Solução]
+   - Beecrowd 1245 - Lost Boots [Solução](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_06/exerc%C3%ADcios/1245.c)
    - Beecrowd 1375 - Pole Position [Solução]
    - Beecrowd 1410 - He is Offside! [Solução]
